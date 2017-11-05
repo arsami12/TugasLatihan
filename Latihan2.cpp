@@ -14,9 +14,10 @@ int Al, Pa, Le, Ti, L ;
 		system ("cls");
 	cout << "Hitung Luas Persegi Panjang"<<endl ;
 	cout <<""<<endl;
-		cout << "Berapa Panjang Persegi Panjangnya ? "; cin >> Pa ;
-		cout << "Berapa Lebar Persegi Panjangnya   ? "; cin >> Le ;
-	L = Pa*Le ;
+	cout << "Berapa Panjang Persegi Panjangnya ? "; cin >> Pa ;
+	cout << "Berapa Lebar Persegi Panjangnya   ? "; cin >> Le ;
+		L = Pa*Le ;
+	cout << "Hasilnya Luas Persegi Panjang Adalah : "<< L ;
 }
 
 
