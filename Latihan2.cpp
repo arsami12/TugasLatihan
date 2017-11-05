@@ -22,8 +22,9 @@ int Al, Pa, Le, Ti, L ;
 
 	else if (Option=='S'){
 		system ("cls");
-		cout << "Hitung Luas Segitiga"<<endl ;
-		cout <<""<<endl;
+	cout << "Hitung Luas Segitiga"<<endl ;
+	cout <<""<<endl;
+	cout << "Hitung Alas Segitiganya ? "; cin >> Al ;
 		
 
 }
