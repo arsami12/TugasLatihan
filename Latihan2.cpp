@@ -20,5 +20,12 @@ int Al, Pa, Le, Ti, L ;
 	cout << "Hasilnya Luas Persegi Panjang Adalah : "<< L ;
 }
 
+	else if (Option=='S'){
+		system ("cls");
+		cout << "Hitung Luas Segitiga"<<endl ;
+		cout <<""<<endl;
+		
+
+}
 
 }
