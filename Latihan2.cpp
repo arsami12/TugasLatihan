@@ -25,6 +25,7 @@ int Al, Pa, Le, Ti, L ;
 	cout << "Hitung Luas Segitiga"<<endl ;
 	cout <<""<<endl;
 	cout << "Hitung Alas Segitiganya ? "; cin >> Al ;
+	cout << "Berapa Tinggi Segitiganya ? "; cin >> Ti ;
 		
 
 }
