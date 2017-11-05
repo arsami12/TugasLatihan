@@ -16,6 +16,7 @@ int Al, Pa, Le, Ti, L ;
 	cout <<""<<endl;
 		cout << "Berapa Panjang Persegi Panjangnya ? "; cin >> Pa ;
 		cout << "Berapa Lebar Persegi Panjangnya   ? "; cin >> Le ;
+	L = Pa*Le ;
 }
 
 
