@@ -12,4 +12,8 @@ int X, Y, Z;
 			Z = X-Y;
 		cout << "Selisih X dan Y yaitu "<< Z ;
 	}
+		else if (Y>X){
+			Z = Y-X;
+		cout << "Selisih Y dan X yaitu "<< Z ;
+	}
 }
