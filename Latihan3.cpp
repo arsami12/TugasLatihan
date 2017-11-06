@@ -27,6 +27,7 @@ if (JK>40){
 
 else {
 		system ("cls") ;
+	GTOT = GP*40 ;
 	
 
 }
