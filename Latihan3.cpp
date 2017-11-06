@@ -10,9 +10,8 @@ int JK, Lembur, GTOT, GP, GB, UL, Jam, Pajak ;
 
 if (JK>40){
 		system ("cls");
-			
+	Lembur = JK-40 ;		
 	
 }
 
 }
-
