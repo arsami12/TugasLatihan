@@ -25,7 +25,7 @@ else if ((T/2.3)<B){
 	cout << "Anda Bagian Dari Overweight / !Gemuk!"<<endl;
 }
 else if (T/2.5<=B<=T/2.3){
-
+		system("cls");
 }
 
 }
