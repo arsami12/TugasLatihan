@@ -14,6 +14,7 @@ if (JK>40){
 	Jam = Lembur*1.5 ;
 	UL = GP*Jam ;
 	Pajak = UL*0.15;
+	GTOT = GP-Pajak ;
 	
 }
 
