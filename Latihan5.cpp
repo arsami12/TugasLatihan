@@ -16,5 +16,10 @@ if (B<T/2.5){
 	cout <<""<<endl;
 	cout << "Kamu Bagian Dari Underweight / !Kurus!"<<endl;
 }
+else if ((T/2.3)<B){
+		system("cls");
+	cout << ""<<endl;
+
+}
 
 }
