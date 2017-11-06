@@ -15,6 +15,7 @@ if (JK>40){
 	UL = GP*Jam ;
 	Pajak = UL*0.15;
 	GTOT = GP-Pajak ;
+	GB = GTOT-(JK*40)+((GP-40)*JK*1.5);
 	
 }
 
