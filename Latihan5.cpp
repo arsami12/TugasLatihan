@@ -21,6 +21,9 @@ else if ((T/2.3)<B){
 	cout << ""<<endl;
 	cout << "Tinggi Kamu : "<<T<<" Kg"<<endl;
 	cout << "Berat  Kamu : "<<B<<" Cm"<<endl;
+	cout <<""<<endl;
+	cout << "Anda Bagian Dari Overweight / !Gemuk!"<<endl;
 }
+
 
 }
