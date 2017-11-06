@@ -3,5 +3,7 @@ using namespace std;
 
 int main () {
 
-int B ;	
+int B ;
+
+	cout << "Angka Bilangan	: "; cin >> B ;
 }
