@@ -25,4 +25,10 @@ if (JK>40){
 	cout << "Gaji Bersih Yang diterima Karyawan : Rp "<<GB<<endl;
 }
 
+else {
+		system ("cls") ;
+	
+
+}
+
 }
