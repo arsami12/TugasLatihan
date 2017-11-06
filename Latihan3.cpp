@@ -3,9 +3,9 @@ using namespace std;
 
 int main () {
 
-int Jk, Lembur, GTOT, GP, GB, UL, Jam, Pajak ;
+int JK, Lembur, GTOT, GP, GB, UL, Jam, Pajak ;
 
-	cout << "Lama Kerja Karyawan Seminggu : "; cin >> Jk ;
-	
+	cout << "Lama Kerja Karyawan Seminggu 		  : "; cin >> JK ;
+	cout << "Gaji Perjam Karyawan Terima Seminggu : "; cin >> GP ;
 }
 
