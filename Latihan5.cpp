@@ -19,7 +19,8 @@ if (B<T/2.5){
 else if ((T/2.3)<B){
 		system("cls");
 	cout << ""<<endl;
-
+	cout << "Tinggi Kamu "<<T<<" Kg"<<endl;
+	
 }
 
 }
