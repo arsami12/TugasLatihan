@@ -17,12 +17,12 @@ if (JK>40){
 	GTOT = GP-Pajak ;
 	GB = GTOT-(JK*40)+((GP-40)*JK*1.5);
 	
-	cout << "Lama Kerja Karyawan Seminggu  : "<<JK<<" Jam"<<endl;
-	cout << "Total Lembur Karyawan Sekitar : "<<Lembur<<" Jam dalam Seminggu"<<endl;
-	cout << "Gaji Perjam Karyawan Terima Dalam Seminggu : Rp "<<GP<<endl;
-	cout << "Upah Lembur Yang diterima Karyawan : Rp "<<UL<<endl;
-	cout << "Pajak Yang Ditanggung Karyawan : Rp "<<Pajak<<endl;
-	cout << "Gaji Bersih Yang diterima Karyawan : Rp "<<GB<<endl;
+	cout << "Lama Kerja Karyawan Seminggu  				 : "<<JK<<" Jam"<<endl;
+	cout << "Total Lembur Karyawan Sekitar 				 : "<<Lembur<<" Jam dalam Seminggu"<<endl;
+	cout << "Gaji Perjam Karyawan Terima Dalam Seminggu  : Rp "<<GP<<endl;
+	cout << "Upah Lembur Yang diterima Karyawan			 : Rp "<<UL<<endl;
+	cout << "Pajak Yang Ditanggung Karyawan				 : Rp "<<Pajak<<endl;
+	cout << "Gaji Bersih Yang diterima Karyawan			 : Rp "<<GB<<endl;
 }
 
 else {
@@ -31,11 +31,11 @@ else {
 	Pajak = GTOT*0.15;
 	GB = GTOT-Pajak ;
 	
-	cout << "Lama Kerja Karyawan Seminggu : "<<JK<<"Jam"<<endl;
+	cout << "Lama Kerja Karyawan Seminggu 		  : "<<JK<<"Jam"<<endl;
 	cout << "Gaji Perjam Karyawan Terima Seminggu : Rp "<<GP<<endl;
-	cout << "Gaji Total Karyawan : Rp "<<GTOT<<endl;
-	cout << "Pajak Karyawan Sebesar : Rp "<<Pajak<<endl;
-	cout << "Gaji Bersih Karyawan Sebesar :Rp "<<GB<<endl;
+	cout << "Gaji Total Karyawan 				  : Rp "<<GTOT<<endl;
+	cout << "Pajak Karyawan Sebesar 			  : Rp "<<Pajak<<endl;
+	cout << "Gaji Bersih Karyawan Sebesar 		  : Rp "<<GB<<endl;
 	
 }
 
