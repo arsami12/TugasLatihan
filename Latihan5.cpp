@@ -10,10 +10,11 @@ int T, B ;
 	
 if (B<T/2.5){
 		system ("cls");
-		cout <<""<<endl;	
+	cout <<""<<endl;	
 	cout << "Tinggi Kamu : "<<T<<" Kg"<<endl;
 	cout << "Berat  Kamu : "<<B<<" Cm"<<endl;
-	
+	cout <<""<<endl;
+	cout << "Kamu Bagian Dari Underweight / !Kurus!"<<endl;
 }
 
 }
