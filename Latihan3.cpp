@@ -29,6 +29,7 @@ else {
 		system ("cls") ;
 	GTOT = GP*40 ;
 	Pajak = GTOT*0.15;
+	GB = GTOT-Pajak ;
 	
 
 }
