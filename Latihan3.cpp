@@ -13,6 +13,7 @@ if (JK>40){
 	Lembur = JK-40 ;	
 	Jam = Lembur*1.5 ;
 	UL = GP*Jam ;
+	Pajak = UL*0.15;
 	
 }
 
