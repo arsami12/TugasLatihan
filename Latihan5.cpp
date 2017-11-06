@@ -5,7 +5,8 @@ int main () {
 
 int T, B ;
 
-	cout << " Tinggi Badan Kamu (Cm) ? "; cin >> T ;
-	cout << " Berat Badan Kamu (Kg) ? "; cin >> B ;
+	cout << " Tinggi Badan Kamu (Cm) ? : "; cin >> T ;
+	cout << " Berat  Badan Kamu (Kg) ? : "; cin >> B ;
+	
 
 }
