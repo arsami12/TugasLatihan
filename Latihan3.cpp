@@ -35,9 +35,8 @@ else {
 	cout << "Gaji Perjam Karyawan Terima Seminggu : Rp "<<GP<<endl;
 	cout << "Gaji Total Karyawan : Rp "<<GTOT<<endl;
 	cout << "Pajak Karyawan Sebesar : Rp "<<Pajak<<endl;
+	cout << "Gaji Bersih Karyawan Sebesar :Rp "<<GB<<endl;
 	
-	
-
 }
 
 }
