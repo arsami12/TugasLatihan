@@ -33,6 +33,7 @@ else {
 	
 	cout << "Lama Kerja Karyawan Seminggu : "<<JK<<"Jam"<<endl;
 	cout << "Gaji Perjam Karyawan Terima Seminggu : Rp "<<GP<<endl;
+	cout << "Gaji Total Karyawan : Rp "<<GTOT<<endl;
 	
 
 }
