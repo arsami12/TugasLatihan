@@ -21,6 +21,7 @@ if (JK>40){
 	cout << "Total Lembur Karyawan Sekitar : "<<Lembur<<" Jam dalam Seminggu"<<endl;
 	cout << "Gaji Perjam Karyawan Terima Dalam Seminggu : Rp "<<GP<<endl;
 	cout << "Upah Lembur Yang diterima Karyawan : Rp "<<UL<<endl;
+	cout << "Pajak yang Ditanggung Karyawan : Rp "<<Pajak<<endl;
 	
 }
 
