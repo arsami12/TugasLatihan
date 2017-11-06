@@ -19,8 +19,8 @@ else if (B<0){
 }
 else if (B==0){
 		system("cls");
-		cout << ""<<endl;
-		cout << "Yeah... Bilangannya Adalah '!SAMA NOL!' ( "<<B<<" )!!"<<endl;
+	cout << ""<<endl;
+	cout << "Yeah... Bilangannya Adalah '!SAMA NOL!' ( "<<B<<" )!!"<<endl;
 }
 
 }
