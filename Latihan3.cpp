@@ -28,6 +28,7 @@ if (JK>40){
 else {
 		system ("cls") ;
 	GTOT = GP*40 ;
+	Pajak = GTOT*0.15;
 	
 
 }
