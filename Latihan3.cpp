@@ -31,6 +31,7 @@ else {
 	Pajak = GTOT*0.15;
 	GB = GTOT-Pajak ;
 	
+	cout << "Lama Kerja Karyawan Seminggu : "<<JK<<"Jam"<<endl;
 
 }
 
