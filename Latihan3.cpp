@@ -17,6 +17,8 @@ if (JK>40){
 	GTOT = GP-Pajak ;
 	GB = GTOT-(JK*40)+((GP-40)*JK*1.5);
 	
+	cout << "Lama Kerja Karyawan Seminggu : "<<JK<<" Jam"<<endl;
+	
 }
 
 }
